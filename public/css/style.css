@@ -1,11 +1,13 @@
 h1 {
     color: red;
+    font-size: 45px;
 }
 
 body {
-    background-color: brown;
+    background-color: gray;
 }
 
 p {
     color: blue;
+    font-style: italic;
 }
